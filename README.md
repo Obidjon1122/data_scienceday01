@@ -46,4 +46,4 @@ Loyiha davomida Python dasturlash tilining asosiy imkoniyatlari va sintaksisini 
 
 **Muallif:** Obidjon  
 **Yakunlangan sana:** 2025-04-14
-you can call me by this telegram username: `@obidjon_1122`
+you can call me by this telegram username: [`@obidjon_1122`](https://web.telegram.org/k/#@obidjon_1122)
